@@ -3,4 +3,4 @@ console.log(palabra2)
 const asdasd2 = "probando merge" + " otra cosa"
 
 // comentario lore
-
+//trato de hacer un error
